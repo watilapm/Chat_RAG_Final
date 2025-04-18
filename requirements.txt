@@ -1,1 +1,10 @@
 streamlit
+langchain==0.1.14
+langchain-openai==0.1.3
+langchainhub==0.1.15
+langchain-core
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+openai
